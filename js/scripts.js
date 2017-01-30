@@ -1,2 +1,2 @@
 // YOUR SCRIPTS GO HERE
-$('h1').fitText(); 
+$("h1").fitText(); 
